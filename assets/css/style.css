@@ -1,3 +1,13 @@
 .bg-grad {
     background-image: linear-gradient(to right, #485CB8, #261360);
 }
+
+h1,
+h2,
+h3 {
+    font-weight: bolder;
+}
+
+.offset {
+    margin-left: 30%;
+}
